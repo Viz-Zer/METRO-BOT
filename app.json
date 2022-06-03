@@ -1,0 +1,65 @@
+{
+	"name": "METRO",
+	"description": "A Self Whatsapp bot.",
+	"keywords": [
+		"whatsapp",
+		"bot"
+	],
+	"repository": "https://github.com/devil624/METRO-BOT",
+	"stack": "container",
+	"env": {
+		"ALWAYS_ONLINE": {
+			"description": "show bot number last seen as online",
+			"required": false,
+			"value": "false"
+		},
+		"LOG_MSG": {
+			"description": "Show whatsapp msgs in log",
+			"required": false,
+			"value": "true"
+		},
+		"SUDO": {
+			"description": "No need to add your bot number here",
+			"required": true,
+			"value": "919526433047"
+		},
+		"PREFIX": {
+			"description": "prefix, check for more",
+			"required": true,
+			"value": "#"
+		},
+		"SESSION_ID": {
+			"description": "session id",
+			"required": true,
+			"value": ""
+		},
+		"STICKER_PACKNAME": {
+			"description": "sticker pack info",
+			"required": true,
+			"value": "𝘔𝘌𝘛𝘙𝘖❤𝘉𝘖𝘛"
+		},
+		"HEROKU_APP_NAME": {
+			"description": "Type Heroku App name as METRO-BOT",
+			"required": true
+		},
+		"HEROKU_API_KEY": {
+			"description": "Heroku account api key will get in, https://dashboard.heroku.com/account",
+			"required": true
+		},
+		"RMBG_KEY": {
+			"description": "API key from remove.bg, required for plugin rmbg",
+			"required": true,
+			"value": "null"
+		},
+		"LANG": {
+			"description": "Default Language for tts or trt",
+			"required": false,
+			"value": "ml"
+		}
+	},
+	"addons": [
+		{
+			"plan": "heroku-postgresql"
+		}
+	]
+}
