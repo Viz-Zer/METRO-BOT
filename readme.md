@@ -6,7 +6,7 @@
  </a>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&duration=8055&color=3399FF&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙀𝙏𝙍𝙊+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙑𝙄𝙕-𝙕𝙀𝙍+𝘼𝙉𝘿+𝙎𝙃𝘼𝙁𝙄;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝙎𝙀𝙇𝙁+𝙐𝙎𝙀𝙍+𝘽𝙊𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&duration=8055&color=3399FF&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙈𝙀𝙏𝙍𝙊+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙑𝙄𝙕-𝙕𝙀𝙍+𝘼𝙉𝘿+𝙕𝙀𝙔𝙍𝙊𝙓;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝙎𝙀𝙇𝙁+𝙐𝙎𝙀𝙍+𝘽𝙊𝙏)](https://git.io/typing-svg)
 
 <p align="center">
 Repository created by <a href="https://github.com/Viz-Zer">Viz-Zer</a> to make it public
@@ -16,8 +16,12 @@ Repository created by <a href="https://github.com/Viz-Zer">Viz-Zer</a> to make i
     <br> 
 </p>
 
-#### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/Viz-Zer/count.svg)
+
+<a href="https://chat.whatsapp.com/GI1czKTYIyN9r1yjbmirB3"><img title="WhatsApp" src="https://img.shields.io/badge/WHATSAPP GROUP-h?color=black&style=for-the-badge&logo=whatsapp"></a>
+<p align="center">
+</p>
+
+
 <p align="center">
  <a href="https://github.com/viz-zer"><img title="Author" src="https://img.shields.io/badge/AUTHOR-h?color=black&style=for-the-badge&logo=github"></a>
 <p align="center">
@@ -42,9 +46,11 @@ SETUP
 <a href="https://heroku.com/deploy?template=https://github.com/devil624/METRO-BOT" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
 
        
-<a href="https://github.com/Viz-Zer"><img src="https://telegra.ph/file/0ebc04c0181d515748a69.jpg" width="100" height="100"></a> | [![SHAFI](https://github.coM/devil624.png?size=100)](https://github.com/devil624) 
+<a href="https://github.com/Viz-Zer"><img src="https://telegra.ph/file/0ebc04c0181d515748a69.jpg" width="100" height="100"></a> | [![ZeyRox-Zer](https://github.coM/devil624.png?size=100)](https://github.com/devil624) 
 ----|----|
-[VIZ-ZER](https://github.com/Viz-Zer) | [SHAFI](https://github.com/devil624) |
+[Viz-Zer](https://github.com/Viz-Zer) | [ZeyRox-Zer](https://github.com/devil624) |
 Developer | Author / Creator |
      
-<a href="https://fontmeme.com/blur-images/"><img src="https://fontmeme.com/permalink/220529/acf836f27cb570abb7928bb503db051a.png" alt="blur-images" border="0"></a>
+     
+     
+<a href="https://fontmeme.com/3d-rotation/"><img src="https://fontmeme.com/permalink/220609/9cd2d33ee055be8caf0debae79329d5d.png" width="500" height="30"></a>
